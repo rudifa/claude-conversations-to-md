@@ -13,7 +13,7 @@ sample_conversations/conversations.json
 
 ## How to obtain the input file
 
-In the dektop Claude app or in the web page, go to Settings -> Data Export and request a data export.
+In the desktop Claude app or in the web page, go to `Settings -> Data Export` and request a data export.
 Once the export is ready, you will receive an email with a link to a zip file.
 Download the file and unzip it.
 The unzipped folder will contain a file named `conversations.json` which is the input file for this script.
